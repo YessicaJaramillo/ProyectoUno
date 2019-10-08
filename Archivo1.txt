@@ -1,0 +1,2 @@
+es un software de control de versiones atraves de repositorios 
+diseñado por Linus Torvalds
